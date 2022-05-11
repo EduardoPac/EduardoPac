@@ -25,8 +25,10 @@
   
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQLServer"/>
   <img src="https://img.shields.io/badge/PostGreSQL-385E8D?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-385E8D?style=for-the-badge&logo=mysql&logoColor=white" alt="MySql"/>
   <img src="https://img.shields.io/badge/MongoDB-8CC366?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/SQLite-0D7EC9?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  
   <img src="https://img.shields.io/badge/docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=099BEA" alt="Docker"/>
   
   <img src="https://img.shields.io/badge/Git-E3544A?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> 
@@ -39,6 +41,9 @@
   <img src="https://img.shields.io/badge/Android_Studio-548D21?style=for-the-badge&logo=android-studio&logoColor=white" alt="AndroidStudio"/>
   <img src="https://img.shields.io/badge/XCode-1669DD?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode"/>
   <img src="https://img.shields.io/badge/Jetbrains_Rider-C90F5D?style=for-the-badge&logo=rider&logoColor=white" alt="Rider"/>
+  
+  <img src="https://img.shields.io/badge/Postman-333333?style=for-the-badge&logo=postman&logoColor=F66A36" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Power_BI-EBC300?style=for-the-badge&logo=power-bi&logoColor=black" alt="PowerBI"/>
   
   <img src="https://img.shields.io/badge/Azure_DevOps-0574CB?style=for-the-badge&logo=azure-devops&logoColor=white" alt="DevOps"/>
   <img src="https://img.shields.io/badge/Jira-FFFFFF?style=for-the-badge&logo=jira&logoColor=2680F9" alt="Jira"/>
@@ -54,7 +59,10 @@
   <img src="https://img.shields.io/badge/Microsoft_Teams-5059C9?style=for-the-badge&logo=microsoft-teams&logoColor=white" alt="Teams"/>
   <img src="https://img.shields.io/badge/Discord-7086D7?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   
-  <img src="https://img.shields.io/badge/Power_BI-EBC300?style=for-the-badge&logo=power-bi&logoColor=black" alt="PowerBI"/>
+  <img src="https://img.shields.io/badge/Windows-0076D1?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+  <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Mac_OS-FFFFFF?style=for-the-badge&logo=apple&logoColor=black" alt="MacOS"/>
+  
 </p>
 
 ## 🧑🏻‍💻 About my Github ##
@@ -66,3 +74,4 @@
 
 [![EduardoPac](https://github-readme-stats.vercel.app/api/pin/?username=EduardoPac&repo=dart_study&theme=tokyonight)](https://github.com/EduardoPac/dart_study)
 
+![Snake animation](https://github.com/EduardoPac/EduardoPac/blob/output/github-contribution-grid-snake.svg)
