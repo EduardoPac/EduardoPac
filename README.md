@@ -1,4 +1,4 @@
-# Wellcome 🦁 #
+# Wellcome 🐵 #
 
 ## 🧠 Languages and Frameworks that I master and/or am learning: ##
 
