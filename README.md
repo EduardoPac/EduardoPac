@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Git-E3544A?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> 
 </p>
 
-## 💼 Tools I use in my daily life to work on my projects: ##
+## 💼 Tools I use in my daily life to work: ##
 <p align="left">
   <img src="https://img.shields.io/badge/Jetbrains_Rider-C90F5D?style=for-the-badge&logo=rider&logoColor=white" alt="Rider"/>
   <img src="https://img.shields.io/badge/Visual_Studio-652E91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="VisualStudio"/>
@@ -36,6 +36,19 @@
   <img src="https://img.shields.io/badge/XCode-1669DD?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode"/>
   
   <img src="https://img.shields.io/badge/Power_BI-EBC300?style=for-the-badge&logo=power-bi&logoColor=black" alt="PowerBI"/>
+  
+  <img src="https://img.shields.io/badge/Adobe_XD-450136?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="Adobe XD"/>
+  <img src="https://img.shields.io/badge/Figma-333333?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Miro-F1CA2B?style=for-the-badge&logo=miro&logoColor=black" alt="Miro"/>
+  
+  <img src="https://img.shields.io/badge/Azure_DevOps-0574CB?style=for-the-badge&logo=azure-devops&logoColor=white" alt="DevOps"/>
+  <img src="https://img.shields.io/badge/Jira-FFFFFF?style=for-the-badge&logo=jira&logoColor=2680F9" alt="Jira"/>
+  <img src="https://img.shields.io/badge/Trello-7086D7?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
+  <img src="https://img.shields.io/badge/Github-FFFFFF?style=for-the-badge&logo=github&logoColor=black" alt="Github"/>
+  
+  <img src="https://img.shields.io/badge/Microsoft_Teams-5059C9?style=for-the-badge&logo=microsoft-teams&logoColor=white" alt="Teams"/>
+  <img src="https://img.shields.io/badge/Discord-7086D7?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  
 </p>
 
 ## 🧑🏻‍💻 About my Github ##
