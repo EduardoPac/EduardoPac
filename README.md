@@ -44,10 +44,12 @@
   <img src="https://img.shields.io/badge/Figma-333333?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   
   <img src="https://img.shields.io/badge/Miro-F1CA2B?style=for-the-badge&logo=miro&logoColor=black" alt="Miro"/>
-  <img src="https://img.shields.io/badge/Power_BI-EBC300?style=for-the-badge&logo=power-bi&logoColor=black" alt="PowerBI"/>
+  <img src="https://img.shields.io/badge/ITerm-333333?style=for-the-badge&logo=powershell&logoColor=white" alt="iTerm"/>
   
   <img src="https://img.shields.io/badge/Microsoft_Teams-5059C9?style=for-the-badge&logo=microsoft-teams&logoColor=white" alt="Teams"/>
   <img src="https://img.shields.io/badge/Discord-7086D7?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  
+  <img src="https://img.shields.io/badge/Power_BI-EBC300?style=for-the-badge&logo=power-bi&logoColor=black" alt="PowerBI"/>
 </p>
 
 ## 🧑🏻‍💻 About my Github ##
