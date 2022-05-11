@@ -84,7 +84,7 @@
 </p>
 
 
-## 🛠 Project I'm currently working on ##
+## 🛠 Projects I'm currently working on ##
 
 [![EduardoPac](https://github-readme-stats.vercel.app/api/pin/?username=EduardoPac&repo=dart_study&theme=github_dark)](https://github.com/EduardoPac/dart_study)
 
