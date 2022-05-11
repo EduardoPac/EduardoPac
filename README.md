@@ -16,8 +16,6 @@
   <img src="https://img.shields.io/badge/Dart-0076be?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
   <img src="https://img.shields.io/badge/Flutter-005599?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
   
-  <img src="https://img.shields.io/badge/Git-E3544A?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> 
-  
   <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
   <img src="https://img.shields.io/badge/Amazon_AWS-232E3F?style=for-the-badge&logo=amazon-aws&logoColor=orange" alt="Aws"/>
   <img src="https://img.shields.io/badge/Firebase-FFFFFF?style=for-the-badge&logo=firebase&logoColor=F4C439" alt="Firebase"/>
@@ -25,6 +23,8 @@
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQLServer"/>
   <img src="https://img.shields.io/badge/PostGreSQL-385E8D?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MongoDB-8CC366?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  
+  <img src="https://img.shields.io/badge/Git-E3544A?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> 
 </p>
 
 ## 💼 Tools I use in my daily life to work on my projects: ##
