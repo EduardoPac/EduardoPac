@@ -1,6 +1,8 @@
 # Wellcome 🐵 #
 
-## 🧠 Languages and Frameworks that I master and/or am learning: ##
+I am a mobile device developer, graduated in computer science and post-graduated in mobile application architecture, focused on always improving your knowledge in the area
+
+## 📚 Languages and Frameworks that I master and/or am learning: ##
 
 <p align="left">
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="dotNet"/>
@@ -23,11 +25,13 @@
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQLServer"/>
   <img src="https://img.shields.io/badge/PostGreSQL-385E8D?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MongoDB-8CC366?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/SQLite-0D7EC9?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=099BEA" alt="Docker"/>
   
   <img src="https://img.shields.io/badge/Git-E3544A?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> 
 </p>
 
-## 💼 Tools I use in my daily life to work: ##
+## 💼 Tools I use or have used in my day to day to work: ##
 <p align="left">
   <img src="https://img.shields.io/badge/Jetbrains_Rider-C90F5D?style=for-the-badge&logo=rider&logoColor=white" alt="Rider"/>
   <img src="https://img.shields.io/badge/Visual_Studio-652E91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="VisualStudio"/>
