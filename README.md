@@ -65,13 +65,17 @@
   
 </p>
 
-## 🧑🏻‍💻 About my Github ##
+## 🧑🏻‍💻 My Analytics ##
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=EduardoPac&theme=tokyonight)](https://github.com/EduardoPac)
-[![EduardoPac](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoPac&hide=html&theme=tokyonight)](https://github.com/EduardoPac/)
+<p align="left">
+<a href="https://github.com/EduardoPac">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoPac&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoPac&hide=html&theme=github_dark"/>
+</a>
+</p>
+
 
 ## 🛠 Project I'm currently working on ##
 
-[![EduardoPac](https://github-readme-stats.vercel.app/api/pin/?username=EduardoPac&repo=dart_study&theme=tokyonight)](https://github.com/EduardoPac/dart_study)
+[![EduardoPac](https://github-readme-stats.vercel.app/api/pin/?username=EduardoPac&repo=dart_study&theme=github_dark)](https://github.com/EduardoPac/dart_study)
 
-![Snake animation](https://github.com/EduardoPac/EduardoPac/blob/output/github-contribution-grid-snake.svg)
