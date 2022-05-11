@@ -1,16 +1,15 @@
-### Hi there 👋
+👨‍💻 Olá, seja bem vindo!
 
-<!--
-**EduardoPac/EduardoPac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 Linguagens e Frameworksque domino e/ou estou aprendendo
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Ferramentas que utilizo no meu dia a dia para trabalhar em meus projetos.
+
+
+💬 Para entrar em contato comigo, eu posso ser encontrado nos links abaixo: ⤵️
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=EduardoPac)
+
+🛠 Projeto que estou trabalhando atualmente
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardoPac&repo=dart_study)
