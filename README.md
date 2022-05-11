@@ -40,8 +40,7 @@
 
 ## 🧑🏻‍💻 About my Github ##
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=EduardoPac&layout=compact&theme=tokyonight)](https://github.com/EduardoPac)
-
+[![Github stats](https://github-readme-stats.vercel.app/api?username=EduardoPac&theme=tokyonight)](https://github.com/EduardoPac)
 [![EduardoPac](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoPac&hide=html&theme=tokyonight)](https://github.com/EduardoPac/)
 
 ## 🛠 Project I'm currently working on ##
