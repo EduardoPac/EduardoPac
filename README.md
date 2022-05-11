@@ -3,7 +3,7 @@
 | <img src="https://media-exp1.licdn.com/dms/image/C4D03AQGm_2KrwXstiw/profile-displayphoto-shrink_800_800/0/1640032197292?e=1657756800&v=beta&t=HkZTreRM1eH-GjhRHH_aOkCVkJro-Qifzo3lJSEgLAM" width=300 height=auto alt="photo"/> |  Hello everyone, my name is Eduardo and this is my Github. I am 25 years old, I am a mobile developer, graduated in computer science and postgraduate in mobile application architecture, my projects are always focused on developing me in the area I work, to bring to my clients a great experience  |
 |---|---|
   
-## 📚 Languages and Frameworks that I master and/or am learning: ##
+## 💻 Languages and Frameworks that I master and/or am learning: ##
 
 <p align="left">
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="dotNet"/>
@@ -34,11 +34,11 @@
 
 ## 💼 Tools I use or have used in my day to day to work: ##
 <p align="left">
-  <img src="https://img.shields.io/badge/Jetbrains_Rider-C90F5D?style=for-the-badge&logo=rider&logoColor=white" alt="Rider"/>
   <img src="https://img.shields.io/badge/Visual_Studio-652E91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="VisualStudio"/>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-1D9FF2?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VisualStudioCode"/>
   <img src="https://img.shields.io/badge/Android_Studio-548D21?style=for-the-badge&logo=android-studio&logoColor=white" alt="AndroidStudio"/>
   <img src="https://img.shields.io/badge/XCode-1669DD?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode"/>
+  <img src="https://img.shields.io/badge/Jetbrains_Rider-C90F5D?style=for-the-badge&logo=rider&logoColor=white" alt="Rider"/>
   
   <img src="https://img.shields.io/badge/Azure_DevOps-0574CB?style=for-the-badge&logo=azure-devops&logoColor=white" alt="DevOps"/>
   <img src="https://img.shields.io/badge/Jira-FFFFFF?style=for-the-badge&logo=jira&logoColor=2680F9" alt="Jira"/>
