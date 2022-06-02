@@ -1,7 +1,6 @@
 # Wellcome 🐵 #
 
-| <img src="https://media-exp1.licdn.com/dms/image/C4D03AQGm_2KrwXstiw/profile-displayphoto-shrink_800_800/0/1640032197292?e=1657756800&v=beta&t=HkZTreRM1eH-GjhRHH_aOkCVkJro-Qifzo3lJSEgLAM" width=300 height=auto alt="photo"/> |  Hello everyone, my name is Eduardo and this is my Github. I am 25 years old, I am a mobile developer, graduated in computer science and postgraduate in mobile application architecture, my projects are always focused on developing me in the area I work, to bring to my clients a great experience  |
-|---|---|
+Hello everyone, my name is Eduardo and this is my Github. I am 25 years old, I am a mobile developer, graduated in computer science and postgraduate in mobile application architecture, my projects are always focused on developing me in the area I work, to bring to my clients a great experience 
   
 ## 💻 Languages and Frameworks that I master and/or am learning: ##
 
