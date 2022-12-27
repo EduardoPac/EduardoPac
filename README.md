@@ -15,9 +15,6 @@ Hello everyone, my name is Eduardo and this is my Github. I am 25 years old, I a
   <img src="https://img.shields.io/badge/Swift-E3544A?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/> 
   <img src="https://img.shields.io/badge/IOS-FFFFFF?style=for-the-badge&logo=apple&logoColor=black" alt="iOS"/> 
   
-  <img src="https://img.shields.io/badge/Dart-0076be?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-  <img src="https://img.shields.io/badge/Flutter-005599?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  
   <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
   <img src="https://img.shields.io/badge/Amazon_AWS-232E3F?style=for-the-badge&logo=amazon-aws&logoColor=orange" alt="Aws"/>
   <img src="https://img.shields.io/badge/Firebase-FFFFFF?style=for-the-badge&logo=firebase&logoColor=F4C439" alt="Firebase"/>
@@ -69,7 +66,6 @@ Hello everyone, my name is Eduardo and this is my Github. I am 25 years old, I a
 <a href = "mailto:eduardopacheco0306@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=FF0000" target="_blank"></a>
 <a href="https://www.linkedin.com/in/eduardopac/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://www.instagram.com/eduardo_pac3/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://burgermonkeys.com/" target="_blank"><img src="https://img.shields.io/badge/BurgerMonkeys-4C759C?style=for-the-badge&logo=wordpress&logoColor=white" target="_blank"></a> 
 <a href="https://www.youtube.com/channel/UC8u_MTNcJudEPsod6_zZUBg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
 <a href="https://www.twitch.tv/burgermonkeys" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 
@@ -81,9 +77,4 @@ Hello everyone, my name is Eduardo and this is my Github. I am 25 years old, I a
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoPac&hide=html&theme=github_dark"/>
 </a>
 </p>
-
-
-## 🛠 Projects I'm currently working on ##
-
-[![EduardoPac](https://github-readme-stats.vercel.app/api/pin/?username=EduardoPac&repo=dart_study&theme=github_dark)](https://github.com/EduardoPac/dart_study)
 
