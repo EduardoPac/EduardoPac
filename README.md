@@ -61,6 +61,10 @@ Hello everyone, my name is Eduardo and this is my Github. I am 26 years old, I a
   
 </p>
 
+## 🗂 My roadmap 
+
+<a href = ""/>
+
 ## 🌎 Where you can find me ##
 
 <a href = "mailto:eduardopacheco0306@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=FF0000" target="_blank"></a>
