@@ -1,6 +1,6 @@
 # Wellcome 🐵 #
 
-Hello everyone, my name is Eduardo and this is my Github. I am 25 years old, I am a mobile developer, graduated in computer science and postgraduate in mobile application architecture, my projects are always focused on developing me in the area I work, to bring to my clients a great experience 
+Hello everyone, my name is Eduardo and this is my Github. I am 26 years old, I am a .Net developer, graduated in computer science and postgraduate in mobile application architecture, my projects are always focused on developing me in the area I work, to bring to my clients a great experience.
   
 ## 💻 Languages and Frameworks that I master and/or am learning: ##
 
@@ -68,13 +68,4 @@ Hello everyone, my name is Eduardo and this is my Github. I am 25 years old, I a
 <a href="https://www.instagram.com/eduardo_pac3/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.youtube.com/channel/UC8u_MTNcJudEPsod6_zZUBg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
 <a href="https://www.twitch.tv/burgermonkeys" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-
-## ⚙️ My Analytics ##
-
-<p align="left">
-<a href="https://github.com/EduardoPac">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoPac&theme=github_dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoPac&hide=html&theme=github_dark"/>
-</a>
-</p>
 
