@@ -63,7 +63,10 @@ Hello everyone, my name is Eduardo and this is my Github. I am 26 years old, I a
 
 ## 🗂 My roadmap 
 
-<a href = ""/>
+<a href="https://github.com/users/EduardoPac/projects/1/views/1" target="_blank"><img src="https://img.shields.io/badge/RoadMap-5C2D91?style=for-the-badge&logo=net&logoColor=white" target="_blank"></a>
+
+
+<a href = ""></a>
 
 ## 🌎 Where you can find me ##
 
